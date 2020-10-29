@@ -1,0 +1,42 @@
+<html>
+<head>
+<marquee direction="right"><h3>ההרשמה לכנס ט' מסתיימת ב-21.12 מהרו להירשם  ***  חג המעלות של ק"ן ראש העין קרב, ב-30.12, שריינו את התאריך  ***  ביום שישי הקרוב ה-22.12, שכבת ז' הולכים לבלות בלילה הלבן הכי טוב שהולך להיות בק"ן אי פעם <h3></marquee>
+<head>
+<body dir="rtl" style="background-image:url('2.jpg') ;
+background-repeat:repeat">
+<center>
+<table border = "0">
+<td>
+<tr><img src=".jpg" alt="7" ;="" height="300" width="400"; img align : "left"></tr>
+<tr><img src="9.jpg" alt="9" ;="" height="300" width="500"></tr>
+<tr><img src=".jpg" alt="6" ;="" height="300" width="400"; img align : "left"></tr>
+</td>
+</center>
+
+<table border = "3"; align=right>
+<tbody>
+<tr>
+<td><a href="page 1.html"><h3 style="color: black; text-align: right">דף ראשי</h3></a></td>
+</tr>
+<tr>
+<td><a href="page 2.html"><h3 style="color: black; text-align: right">אודות</h3></a></td>
+</tr>
+<tr>
+<td><a href="page 3.html"><h3 style="color: black; text-align: right">קבוצות בק"ן</h3></a></td>
+</tr>
+<tr>
+<td><h3 style="color: black; text-align: right">תמונות</h3></td>
+</tr>
+<tr>
+<td><h3 style="color: black; text-align: right">דרכי הרשמה</h3></td>
+</tr>
+<tr>
+<td><h3 style="color: black; text-align: right">מידע על מפעלים</h3></td>
+</tr>
+<tr>
+<td><h3 style="color: black; text-align: right">יצירת קשר</h3></td>
+</tr>
+</tbody></table>
+
+</body>
+</html>
